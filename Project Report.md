@@ -30,10 +30,14 @@ Data acquisition was a 2-step process:<br>1.    Obtainingthe postcodes for ne
 To compare the similarities of two cities, we decided to explore neighbourhoods,segment them, and group them into clusters to find similar neighbourhoods in abig city like New York and Toronto. To be able to do that, we need to clusterdata which is a form of unsupervised machine learning:  k-means clustering algorithm.<br><br>
 
 ## Neighbourhood Most Common Venues
+![Neighbourhood with common venues](common_venues.png)
 
 ## Neighbourhood Median House Prices
+![Median housing price](average_housing_price.png)
 
 ## Neighbourhood School Ratings
+![School price](school_ratings.png)
 
 ## Conclusion
 In this project, through a k-means cluster algorithm weseparate the neighbourhood into 03 clusters, which have similar neighbourhoodsaround them. Using the charts above decision leading to a particularneighbourhood based on average house prices and school rating can be made.
+![conclusion](conclusion.png)
