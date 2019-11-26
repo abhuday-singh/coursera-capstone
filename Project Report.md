@@ -1,4 +1,4 @@
-# Battle of Neighborhood- A Capstone Project
+# Battle of Neighbourhood- A Capstone Project
 
 ## Business Problem
 For candidates who want to pursue their higher education abroad can apply for a university of their choice but to find a decent housing of rental basis or a good neighbourhood can be tricky. Same applies for a family migrating to some other country because of a job change or relocation it becomes important for them to look for a neighbourhood that is decent in price and has most of the facilities as required plus has good schools and colleges nearby them so as to continue the education of their children.<br>So to address this problem we predictthe solution to create an analysis of features of neighbourhood cities in astate of Canada between Neighborhoods. The features include School ratings,median Housing price, weather conditions, crime rate etc. This will helpstudents to figure out which country to choose, which universities to plan, whatwill the approx budget before going to that place where they are gonna starttheir new life.
